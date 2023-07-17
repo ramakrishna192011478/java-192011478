@@ -1,0 +1,13 @@
+import java.util.*;
+public class Main {
+public static void main(String[] args)
+{
+Set<String> Set = new HashSet <String>();
+Set.add("Java");
+Set.add("Python");
+Set.add("DBMS");
+Set.add("Machine Learning");
+Set.add("Operating System");
+System.out.println(Set);
+}
+}
